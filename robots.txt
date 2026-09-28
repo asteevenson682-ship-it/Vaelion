@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asteevenson682-ship-it.github.io/Vaelion/sitemap.xml
